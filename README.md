@@ -18,10 +18,10 @@
 <p><strong>Application</strong> refers to sovetToday, the software program provided by the Company.</p>
 </li>
 <li>
-<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to sovetToday.</p>
+<p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to APP.</p>
 </li>
 <li>
-<p><strong>Country</strong> refers to:  Belarus</p>
+<p><strong>Country</strong> refers to:  Russia.</p>
 </li>
 <li>
 <p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
