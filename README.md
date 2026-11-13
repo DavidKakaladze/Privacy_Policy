@@ -1,5 +1,5 @@
 <h1>Privacy Policy</h1>
-<p>Last updated: October 20 2026</p>
+<p>Last updated: November 13 2026</p>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
 <p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator/" target="_blank">Free Privacy Policy Generator</a>.</p>
 <h2>Interpretation and Definitions</h2>
@@ -15,7 +15,7 @@
 <p><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where &quot;control&quot; means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
 </li>
 <li>
-<p><strong>Application</strong> refers to sovetToday, the software program provided by the Company.</p>
+<p><strong>Application</strong> refers to APP, the software program provided by the Company.</p>
 </li>
 <li>
 <p><strong>Company</strong> (referred to as either &quot;the Company&quot;, &quot;We&quot;, &quot;Us&quot; or &quot;Our&quot; in this Agreement) refers to APP.</p>
